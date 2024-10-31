@@ -1,0 +1,20 @@
+#carta{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #F5F5F5;
+    margin: 20px auto;
+    max-width: 30%;
+    max-height: 100%;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+Image{
+    margin-top: 10%;
+}
+#contenido{
+    padding: 20px;
+    text-align: justify;
+    font-size: 16px;
+}

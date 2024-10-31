@@ -1,0 +1,14 @@
+#sobremi{
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    align-content: center;
+}
+#links{
+    display: flex;
+    justify-content: space-around;
+    gap: 16px;
+}
+.sobremicontainer{
+    margin-top: 10%;
+}
